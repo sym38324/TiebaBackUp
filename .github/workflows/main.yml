@@ -1,11 +1,6 @@
 name: 'Baidu Tieba Auto Sign'
 
-on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: '5 16,22 * * *'
+on: [push]
 
 jobs:
   tieba_sign:
