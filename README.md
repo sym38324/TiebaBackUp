@@ -1,13 +1,3 @@
-# 百度贴吧帖子备份
-
-该分支基于master修改，是适合服务器部署的线上版本。
-
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3.x-brightgreen?style=flat-square">
-<img src="https://img.shields.io/github/license/hui-shao/TiebaBackup?color=orange&style=flat-square">
-<img src="https://img.shields.io/badge/Platform-Windows%20%20%7C%20Linux-blue.svg?longCache=true&style=flat-square">
-</p>
-
 
 ---
 
